@@ -1,0 +1,12 @@
+
+
+
+
+
+
+// NOT DONE (array easy) 
+
+1. rotate array(left) 
+2. union of 2 sorted arr 
+3. Implement 2 stack using array
+
